@@ -74,5 +74,4 @@ Then run the cells in order.
 - Cloud filtering uses `CLOUDY_PIXEL_PERCENTAGE < 20`; adjust the threshold in the code if needed.
 
 ## License
-
-Add a license of your choice (e.g. MIT) here.
+ MIT
