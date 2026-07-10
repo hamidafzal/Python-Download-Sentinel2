@@ -2,6 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/S2_Median.ipynb)
 
+ * Author: Hamid Afzali
+ * Email: hamid.afzali@savba.sk
+ * Date: 2026
 A Google Earth Engine (GEE) + `geemap` notebook that downloads **cloud-masked Sentinel-2
 Surface Reflectance median composites** for a custom Area of Interest (AOI), split into
 user-defined multi-month periods, across a range of years.
