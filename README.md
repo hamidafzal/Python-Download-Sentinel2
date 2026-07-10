@@ -1,6 +1,6 @@
 # Sentinel-2 Median Composite Downloader
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidafzal/S2_Median.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamidafzal/S2_Median_Composite.ipynb)
 
  * Author: Hamid Afzali
  * Email: hamid.afzali@savba.sk
